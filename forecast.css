@@ -1,0 +1,36 @@
+body{
+    background-color:skyblue;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar-form{
+
+    margin-top:60px;
+    margin-left:600px;
+    vertical-align:middle;
+    text-align:center;
+    
+}
+a{
+    font-size: large;
+    float:left;
+    vertical-align:middle;
+    text-align:center;
+    margin-top:20px;
+    margin-left:250px;
+}
+.d1{
+    margin-top:300px;
+    margin-left:250px;
+    vertical-align:middle;
+    text-align:center;
+}
+.dd{
+    float:left;
+    width:200px;
+    height:100px;
+    }
+
