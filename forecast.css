@@ -34,3 +34,9 @@ a{
     height:100px;
     }
 
+img{
+    position: absolute;
+    top:500px;
+    left:670px;
+}
+
